@@ -28,7 +28,7 @@ layer to code and perform these functions.
 
 ![](media/329addd1c08069400ce1c96b045951ea.gif)
 
->   **Code**
+**Code**
 
 Feel free to download the code.
 
