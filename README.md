@@ -28,7 +28,7 @@ layer to code and perform these functions.
 
 ![](media/329addd1c08069400ce1c96b045951ea.gif)
 
-**Code**
+>   **Code**
 
 Feel free to download the code.
 
@@ -51,7 +51,8 @@ points list.
 
 **Blog**
 
-**Read the Blog:-** <https://www.Bayesenblog.com> to understand how the code
-works.
+**Read the Blog:-**
+[https://www.Bayeseanblog.com](https://www.bayeseanblog.com/) to understand how
+the code works.
 
 Happy Coding
