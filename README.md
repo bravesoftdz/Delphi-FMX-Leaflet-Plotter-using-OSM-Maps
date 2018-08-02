@@ -1,13 +1,10 @@
 ![](media/5a9368b150335a77ae5e3bba1f1dc7ce.png)
 
-Delphi FMX Leaflet Plotter using OSM Maps
-=========================================
+**Delphi FMX Leaflet Plotter using OSM Maps**
 
 By making use of the Leaflet Plotter open source JavaScript libraries, all the
 processing is performed in the browser without having to create an extra Delphi
 layer to code and perform these functions.
-
-![](media/93abdf7db038a946197ff9b0713eef26.gif)
 
 **Components used**
 
@@ -29,7 +26,7 @@ layer to code and perform these functions.
     browser component. First install the component through the *Gettit Manager*
     and only then can you compile the example.
 
-![](media/a2e28ae60406cc617ed44893bcd2905d.png)
+![](media/329addd1c08069400ce1c96b045951ea.gif)
 
 **Code**
 
@@ -42,16 +39,19 @@ as it needs to call the OSM Maps to download the correct tile(s) to be viewed in
 the browser.
 
 The plotting is essential a new map overlay. A left click will add a plotted
-point and the point can be repositioned with left mouse-down and dragged to any
-position.
+point and update the plotted points list. This point can be repositioned with
+left mouse-down and dragged.
 
-Clicking on the point will delete the point and update the internal plotted
+Double clicking the point will delete the point and update the internal plotted
 points list.
+
+![](media/a2e28ae60406cc617ed44893bcd2905d.png)
 
 **Licence MIT.**
 
 **Blog**
 
-Read the Blog:- <https://www.Bayesenblog.com> to understand how the code works.
+**Read the Blog:-** <https://www.Bayesenblog.com> to understand how the code
+works.
 
 Happy Coding
